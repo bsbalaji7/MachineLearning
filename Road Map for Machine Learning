@@ -1,0 +1,479 @@
+Machine Learning Master Roadmap (Beginner to Advanced)
+
+This roadmap is designed to take you from Beginner → Intermediate → Advanced → Expert.
+
+Phase 0: Prerequisites (Foundation)
+
+Before Machine Learning, you need these basics.
+
+1. Python Programming
+
+We will cover
+
+Variables
+Data Types
+Operators
+Loops
+Functions
+OOP
+Exception Handling
+File Handling
+Modules
+Virtual Environment
+
+Libraries
+
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+2. Mathematics
+
+Machine Learning is mostly mathematics.
+
+We'll learn
+
+Linear Algebra
+Scalars
+Vectors
+Matrices
+Tensors
+Matrix Multiplication
+Dot Product
+Transpose
+Determinant
+Eigenvalues
+Eigenvectors
+Statistics
+Mean
+Median
+Mode
+Variance
+Standard Deviation
+Correlation
+Covariance
+Probability
+Bayes Theorem
+Calculus
+Functions
+Derivatives
+Partial Derivatives
+Chain Rule
+Gradient
+Gradient Descent
+Phase 1: Introduction to Machine Learning
+
+Topics
+
+What is AI?
+What is Machine Learning?
+What is Deep Learning?
+Why Machine Learning?
+Types of ML
+ML Workflow
+Real-world Applications
+Phase 2: Data
+
+You'll learn everything about data.
+
+Types of Data
+Numerical
+Categorical
+Image
+Audio
+Video
+Text
+Time Series
+Features
+
+What are Features?
+
+Target Variable
+
+Independent Variable
+
+Dependent Variable
+
+Labels
+
+Dataset
+
+Training Data
+
+Testing Data
+
+Validation Data
+
+Data Collection
+APIs
+CSV
+Database
+Web Scraping
+Sensors
+Data Cleaning
+
+Missing Values
+
+Duplicate Values
+
+Outliers
+
+Noise
+
+Feature Scaling
+
+Encoding
+
+Normalization
+
+Standardization
+
+Phase 3: Exploratory Data Analysis (EDA)
+
+Using
+
+Pandas
+Matplotlib
+
+Learn
+
+Distribution
+Histograms
+Scatter Plot
+Box Plot
+Correlation Matrix
+Heatmaps
+Phase 4: Machine Learning Algorithms
+Supervised Learning
+
+Regression
+
+Algorithms
+
+Linear Regression
+Polynomial Regression
+Ridge
+Lasso
+ElasticNet
+
+Classification
+
+Algorithms
+
+Logistic Regression
+KNN
+Decision Tree
+Random Forest
+Naive Bayes
+Support Vector Machine
+Gradient Boosting
+XGBoost
+AdaBoost
+LightGBM
+CatBoost
+Unsupervised Learning
+K-Means
+Hierarchical Clustering
+DBSCAN
+PCA
+t-SNE
+Reinforcement Learning
+
+Basics
+
+Agent
+Environment
+Reward
+Policy
+Q-Learning
+Deep Q Network
+Phase 5: Model Evaluation
+
+Learn
+
+Confusion Matrix
+
+Accuracy
+
+Precision
+
+Recall
+
+F1 Score
+
+ROC Curve
+
+AUC
+
+MAE
+
+MSE
+
+RMSE
+
+R² Score
+
+Phase 6: Feature Engineering
+
+Topics
+
+Feature Selection
+
+Feature Extraction
+
+Feature Importance
+
+One-Hot Encoding
+
+Ordinal Encoding
+
+Target Encoding
+
+Polynomial Features
+
+Phase 7: Hyperparameter Tuning
+
+Grid Search
+
+Random Search
+
+Cross Validation
+
+Bayesian Optimization
+
+Phase 8: Deep Learning
+Neural Networks
+
+Neuron
+
+Activation Function
+
+Weights
+
+Bias
+
+Forward Propagation
+
+Backpropagation
+
+Loss Function
+
+Optimizer
+
+Epoch
+
+Batch Size
+
+Learning Rate
+
+TensorFlow
+
+Keras
+
+PyTorch (optional but recommended later)
+
+Learn
+
+ANN
+
+CNN
+
+RNN
+
+LSTM
+
+GRU
+
+Transformers (Introduction)
+
+Phase 9: Natural Language Processing (NLP)
+
+Text Cleaning
+
+Tokenization
+
+Stop Words
+
+Stemming
+
+Lemmatization
+
+Word Embeddings
+
+TF-IDF
+
+Word2Vec
+
+BERT
+
+LLMs
+
+Fine-Tuning
+
+Phase 10: Computer Vision
+
+Image Processing
+
+OpenCV
+
+CNN
+
+Object Detection
+
+YOLO
+
+Segmentation
+
+Image Classification
+
+Transfer Learning
+
+Phase 11: Time Series
+
+Forecasting
+
+ARIMA
+
+LSTM
+
+Prophet
+
+Phase 12: Recommendation Systems
+
+Content Based
+
+Collaborative Filtering
+
+Hybrid Systems
+
+Phase 13: Generative AI
+
+Transformers
+
+Attention
+
+GPT
+
+Gemini
+
+Llama
+
+Mistral
+
+Prompt Engineering
+
+Embeddings
+
+Vector Database
+
+RAG
+
+Fine Tuning
+
+Agents
+
+Phase 14: MLOps
+
+Git
+
+Docker
+
+FastAPI
+
+Model Deployment
+
+CI/CD
+
+MLflow
+
+Monitoring
+
+Version Control
+
+Cloud Deployment
+
+Phase 15: Real Projects
+
+Beginner
+
+House Price Prediction
+Student Score Prediction
+Iris Classification
+Titanic Survival Prediction
+
+Intermediate
+
+Spam Detection
+Movie Recommendation
+Customer Churn Prediction
+Sentiment Analysis
+
+Advanced
+
+Face Recognition
+Chatbot
+Fraud Detection
+Stock Prediction
+Medical Diagnosis
+
+Expert
+
+Custom GPT
+RAG System
+AI Voice Assistant
+Self-learning Recommendation Engine
+Tools We Will Learn
+Python
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+OpenCV
+NLTK
+spaCy
+Hugging Face Transformers
+MLflow
+FastAPI
+Docker
+Git
+Jupyter Notebook
+Google Colab
+Learning Order
+Python
+      ↓
+Mathematics
+      ↓
+Data Analysis
+      ↓
+NumPy
+      ↓
+Pandas
+      ↓
+Matplotlib
+      ↓
+Statistics
+      ↓
+Machine Learning
+      ↓
+Scikit-learn
+      ↓
+Deep Learning
+      ↓
+TensorFlow
+      ↓
+PyTorch
+      ↓
+Computer Vision
+      ↓
+NLP
+      ↓
+LLMs
+      ↓
+Generative AI
+      ↓
+MLOps
+      ↓
+Real Projects
