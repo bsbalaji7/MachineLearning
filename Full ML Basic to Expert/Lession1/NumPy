@@ -1,0 +1,102 @@
+What is NumPy?
+
+It is the foundation of Machine Learning.
+
+Almost every ML library is built on top of NumPy.
+
+Examples:
+
+Scikit-Learn ✅
+TensorFlow ✅
+Pandas ✅
+OpenCV ✅
+PyTorch (uses similar tensor concepts) ✅
+
+Without NumPy...
+
+❌ No Machine Learning
+
+Real-Life Analogy
+
+Imagine you have a construction company.
+
+Before building a house, you need bricks.
+
+Bricks
+   ↓
+House
+
+Similarly
+
+NumPy
+   ↓
+Pandas
+   ↓
+Scikit-Learn
+   ↓
+TensorFlow
+   ↓
+Machine Learning
+
+NumPy is the brick of Machine Learning.
+
+
+NumPy Array
+import numpy as np
+
+arr = np.array([10,20,30,40])
+
+Memory
+
++----+----+----+----+
+|10 |20 |30 |40 |
++----+----+----+----+
+
+Stored continuously.
+
+This is called
+
+Contiguous Memory Allocation
+
+That makes NumPy extremely fast.
+
+Why "n-dimensional"?
+
+NumPy can create
+
+1D
+
+[1 2 3]
+
+2D
+
+[[1 2]
+ [3 4]]
+
+3D
+
+[
+ [[1 2]
+  [3 4]]
+
+ [[5 6]
+  [7 8]]
+]
+
+Array Attributes
+import numpy as np
+
+arr = np.array([10,20,30,40])
+
+print(arr.ndim)
+print(arr.shape)
+print(arr.size)
+print(arr.dtype)
+
+Meaning
+
+Attribute	Meaning
+ndim	    Number of dimensions
+shape	    Size in each dimension
+size	    Total elements
+dtype	    Data type
